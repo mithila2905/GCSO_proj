@@ -1,2 +1,2 @@
-# GCSO_proj
-proj20
+# GCSO
+GCSO
